@@ -1,0 +1,13 @@
+#box{
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:white;
+    padding:5px 10px 5px 10px;
+    border-width:5px;
+}
+.search{
+    display:flex;
+    padding-bottom:6px;
+}

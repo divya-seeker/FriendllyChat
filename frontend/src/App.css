@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@200&family=Itim&family=Work+Sans:wght@300&display=swap');
+.App{
+    min-height: 100vh;
+    min-width: 100vw;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Itim', cursive;
+    font-family: 'Work Sans', sans-serif;
+    /* background-image: url('./assets/bgImg.jpg'); */
+    background-color: rgb(247, 247, 233);
+    /* background-size: 100% calc(100%+100px); */
+    background-repeat: no-repeat;
+}
+::-webkit-scrollbar{
+    width: 0;
+}
